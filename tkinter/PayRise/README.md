@@ -9,3 +9,5 @@
 This code is a great beginner project if you are learning how to create software with Tkinter and Python. 
 
 Build a simple application and test it out on your friends and family for a bit of fun. 
+
+![This is how it looks running](PayRise.png)
