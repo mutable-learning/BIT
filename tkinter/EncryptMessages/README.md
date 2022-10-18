@@ -4,6 +4,7 @@
 
 [Watch this episode on YouTube](https://youtu.be/z5kuPIweMI8)
 
+[Get the code for this episode here](EncryptMessages.py)
 
 This is a longer project that uses a variety of tkinter widgets including: notebook, combobox, buttons and text boxes to create a simple interface for working with asymmetric encryption.
 
