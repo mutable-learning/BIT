@@ -4,6 +4,7 @@
 
 [Watch this episode on YouTube](https://youtu.be/a3igAmKrd30)
 
+[Get the code for this episode here](SnakeSpot.py)
 
 This project will help you to develop your own minesweeper game using Tkinter and Python. It is surprising how little code you will need to get it working! For a change, we add a twist by spotting snakes in the grass instead of mines.
 
