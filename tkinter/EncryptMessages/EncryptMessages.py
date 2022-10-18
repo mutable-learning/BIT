@@ -1,6 +1,5 @@
 # This is an app to encrypt and decrypt messages
 
-from ctypes.wintypes import PLARGE_INTEGER
 import tkinter as tk
 from tkinter import ttk
 from tkinter.filedialog import askopenfilename
